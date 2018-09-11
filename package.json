@@ -1,0 +1,29 @@
+{
+    "title": "One Page Lover",
+    "name": "One Page Lover - Bootstrap Plus Plus HTML Template",
+    "version": "1.0.0",
+    "description": "Bootstrap Plus Plus HTML Template based on Light Bootstrap Theme.",
+    "keywords": [
+		"html",
+        "css", 
+		"Boootstrap",		
+        "responsive",
+        "theme",
+        "template"
+    ],
+    "homepage": "https://bootstrapplusplus.com/template/one-page-lover/",
+    "bugs": {
+        "feedback": "https://bootstrapplusplus.com/feedback.html"
+    },
+    "license": "MIT",
+    "author": "Araf Karim @ Bootstrap Plus Plus",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/arafkarim/One-Page_lover-BootstrapPlusPlus.git"
+    },
+    "dependencies": {
+        "bootstrap": "4.1.3",
+        "font-awesome": "4.7.0",
+        "jquery": "3.3.1"
+    }
+}
